@@ -14,3 +14,7 @@ This is a step-by-step guide on how to set up and run this React project on your
 
 * To log in you need to have the API access key
 * The access key is available at https://developer.marvel.com/account
+
+### Test application ###
+
+* https://prova-brjdqdzzs-provamarveel.vercel.app/home
